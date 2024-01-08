@@ -1,0 +1,175 @@
+﻿Installing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Installing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Uninstalling assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Installing service WeatherService...
+Service WeatherService has been successfully installed.
+Creating EventLog source WeatherService in log Application...
+Committing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Uninstalling assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Removing EventLog source WeatherService.
+Service WeatherService is being removed from the system...
+Service WeatherService was successfully removed from the system.
+Installing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Installing service WeatherService...
+Service WeatherService has been successfully installed.
+Creating EventLog source WeatherService in log Application...
+Committing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Uninstalling assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Removing EventLog source WeatherService.
+Service WeatherService is being removed from the system...
+Service WeatherService was successfully removed from the system.
+Installing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Installing service WeatherService...
+Service WeatherService has been successfully installed.
+Creating EventLog source WeatherService in log Application...
+Committing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Uninstalling assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Removing EventLog source WeatherService.
+Service WeatherService is being removed from the system...
+Service WeatherService was successfully removed from the system.
+Installing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Installing service WeatherService...
+Service WeatherService has been successfully installed.
+Creating EventLog source WeatherService in log Application...
+Committing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Uninstalling assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Removing EventLog source WeatherService.
+Service WeatherService is being removed from the system...
+Service WeatherService was successfully removed from the system.
+Attempt to stop service WeatherService.
+Installing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Installing service WeatherService...
+Service WeatherService has been successfully installed.
+Creating EventLog source WeatherService in log Application...
+Committing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Uninstalling assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Removing EventLog source WeatherService.
+Service WeatherService is being removed from the system...
+Service WeatherService was successfully removed from the system.
+Installing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+Installing service WeatherService...
+Service WeatherService has been successfully installed.
+Creating EventLog source WeatherService in log Application...
+Committing assembly 'C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.InstallLog
+   assemblypath = C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe

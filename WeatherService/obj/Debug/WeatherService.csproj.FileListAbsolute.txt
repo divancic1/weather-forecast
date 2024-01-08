@@ -1,0 +1,15 @@
+C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe.config
+C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.exe
+C:\Users\divancic\source\repos\WeatherService\bin\Debug\WeatherService.pdb
+C:\Users\divancic\source\repos\WeatherService\obj\Debug\WeatherService.csproj.AssemblyReference.cache
+C:\Users\divancic\source\repos\WeatherService\obj\Debug\WeatherService.ProjectInstaller.resources
+C:\Users\divancic\source\repos\WeatherService\obj\Debug\WeatherService.csproj.GenerateResource.cache
+C:\Users\divancic\source\repos\WeatherService\obj\Debug\WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\divancic\source\repos\WeatherService\obj\Debug\WeatherService.exe
+C:\Users\divancic\source\repos\WeatherService\obj\Debug\WeatherService.pdb
+C:\Users\divancic\source\repos\WeatherService\obj\Debug\WeatherService.WeatherService.resources
+C:\Users\divancic\source\repos\WeatherService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\divancic\source\repos\WeatherService\bin\Debug\Topshelf.dll
+C:\Users\divancic\source\repos\WeatherService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\divancic\source\repos\WeatherService\bin\Debug\Topshelf.xml
+C:\Users\divancic\source\repos\WeatherService\obj\Debug\WeatherService.csproj.CopyComplete
